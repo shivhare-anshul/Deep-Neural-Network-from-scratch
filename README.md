@@ -14,3 +14,9 @@ back propagation and plot the error on training data as a function of the iterat
 is the test accuracy for this case and how does it change if the number of hiddent neurons
 is increased to 15. Does momentum (with a momentum factor of 0.9) improve the learning
 process ? Provide your detailed analysis.
+
+
+Both of the implementations report is there with outputs. If anyone have any kind of doubt or something, please to mail me at
+
+anshulshivha@iisc.ac.in
+shivhareanshul78@gmail.com
